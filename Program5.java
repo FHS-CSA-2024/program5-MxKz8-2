@@ -24,10 +24,10 @@ public class Program5 {
         badwagonMPG = Math.round(badwagonMPG*10.0)/10.0;
         
         System.out.println("Mushroom Cup Prix Racer Average Miles/Per Gallon:");
-        System.out.println("Royale averaged " + royaleMPG);
-        System.out.println("Koopa King averaged " + koopaMPG);
-        System.out.println("Pipe Frame averaged " + pipeMPG);
-        System.out.println("Badwagon averaged " + badwagonMPG);
+        System.out.println("Royale averaged " + royaleMPG + "m/g");
+        System.out.println("Koopa King averaged " + koopaMPG + "m/g");
+        System.out.println("Pipe Frame averaged " + pipeMPG + "m/g");
+        System.out.println("Badwagon averaged " + badwagonMPG + "m/g");
         
         System.out.println();
         System.out.println("This program was written by:");
